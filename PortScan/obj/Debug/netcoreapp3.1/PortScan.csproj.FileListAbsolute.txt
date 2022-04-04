@@ -1,0 +1,13 @@
+C:\Users\sirin\source\repos\PortScan\PortScan\bin\Debug\netcoreapp3.1\PortScan.exe
+C:\Users\sirin\source\repos\PortScan\PortScan\bin\Debug\netcoreapp3.1\PortScan.deps.json
+C:\Users\sirin\source\repos\PortScan\PortScan\bin\Debug\netcoreapp3.1\PortScan.runtimeconfig.json
+C:\Users\sirin\source\repos\PortScan\PortScan\bin\Debug\netcoreapp3.1\PortScan.runtimeconfig.dev.json
+C:\Users\sirin\source\repos\PortScan\PortScan\bin\Debug\netcoreapp3.1\PortScan.dll
+C:\Users\sirin\source\repos\PortScan\PortScan\bin\Debug\netcoreapp3.1\PortScan.pdb
+C:\Users\sirin\source\repos\PortScan\PortScan\obj\Debug\netcoreapp3.1\PortScan.csprojAssemblyReference.cache
+C:\Users\sirin\source\repos\PortScan\PortScan\obj\Debug\netcoreapp3.1\PortScan.AssemblyInfoInputs.cache
+C:\Users\sirin\source\repos\PortScan\PortScan\obj\Debug\netcoreapp3.1\PortScan.AssemblyInfo.cs
+C:\Users\sirin\source\repos\PortScan\PortScan\obj\Debug\netcoreapp3.1\PortScan.csproj.CoreCompileInputs.cache
+C:\Users\sirin\source\repos\PortScan\PortScan\obj\Debug\netcoreapp3.1\PortScan.dll
+C:\Users\sirin\source\repos\PortScan\PortScan\obj\Debug\netcoreapp3.1\PortScan.pdb
+C:\Users\sirin\source\repos\PortScan\PortScan\obj\Debug\netcoreapp3.1\PortScan.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "undmErW0qvlyNiEwC+Ao5rasZw4pNCb7bdxCNO0XiAp9TlSUDKmlYu/6lavYKV2fJfJGa464DR2j0dTR/wYcfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sirin\\source\\repos\\PortScan\\PortScan\\PortScan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sirin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
